@@ -7,12 +7,6 @@ Welcome to my portfolio website. This site showcases my projects, skills, and ex
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Projects](#projects)
-- [Contact](#contact)
-- [License](#license)
 
 ## Introduction
 
